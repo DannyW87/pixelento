@@ -32,7 +32,9 @@ body {
 	font-weight: 300;
 }
 
-.content img {
+.content img,
+.content svg,
+.content object {
 	display: block;
 	margin: 0 auto;
 }
